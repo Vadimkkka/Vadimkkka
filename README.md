@@ -1,4 +1,4 @@
-[![Header](https://github.com/Vadimkkka/Vadimkkka/blob/main/assets/header.gif)]
+![Header](https://github.com/Vadimkkka/Vadimkkka/blob/main/assets/header.gif)
 
 ### Hi there, I'm Vadimka - aka [Goosek] 👋
 
