@@ -1,5 +1,7 @@
 ![Header](https://github.com/Vadimkkka/Vadimkkka/blob/main/assets/header.gif)
 
+![](https://komarev.com/ghpvc/?username=Vadimkkka&color=yellow&label=😎+Views)
+
 ### Hi there, I'm Vadimka - aka [Goosek] 👋
 
 - 🌱 I’m currently learning everything 🤣
