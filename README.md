@@ -1,6 +1,7 @@
 ![Header](https://github.com/Vadimkkka/Vadimkkka/blob/main/assets/header.gif)
 
-![](https://komarev.com/ghpvc/?username=Vadimkkka&color=yellow&label=😎+Views)
+<!-- ![](https://komarev.com/ghpvc/?username=Vadimkkka&color=yellow&label=😎+Views) -->
+![Vadimkkka](https://count.getloli.com/get/@Vadimkkka?theme=rule34)
 
 ### Hi there, I'm Vadimka - aka [Goosek] 👋
 
