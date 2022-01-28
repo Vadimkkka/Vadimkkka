@@ -46,7 +46,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-24292F?style=for-the-badge&logo=TypeScript&logoColor=3178C6)
 ![Sql](https://img.shields.io/badge/-Sql-24292F?style=for-the-badge&logo=mysql&logoColor=00648B)
 ---
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Goosveridze&show_icons=true&theme=onedark&hide_border=true&bg_color=24292F&border_radius=6)
+![Goosveridze wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Goosveridze&show_icons=true&theme=onedark&hide_border=true&bg_color=24292F&border_radius=6)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vadimkkka&show_icons=true&theme=onedark&hide_border=true&bg_color=24292F&border_radius=6)
 
