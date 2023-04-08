@@ -1,4 +1,4 @@
-![Header](https://github.com/Vadimkkka/Vadimkkka/blob/main/assets/header.gif)
+![Header](./assets/header.gif)
 
 <!-- ![](https://komarev.com/ghpvc/?username=Vadimkkka&color=yellow&label=😎+Views) -->
 ![Vadimkkka](https://count.getloli.com/get/@Vadimkkka?theme=rule34)
