@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/b1be7dde-be98-40c5-81a7-97ec1de0b065.svg)](https://wakatime.com/@b1be7dde-be98-40c5-81a7-97ec1de0b065)
+
 ![Header](./assets/header.gif)
 
 <!-- ![](https://komarev.com/ghpvc/?username=Vadimkkka&color=yellow&label=😎+Views) -->
@@ -46,7 +48,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-24292F?style=for-the-badge&logo=TypeScript&logoColor=3178C6)
 ![Sql](https://img.shields.io/badge/-Sql-24292F?style=for-the-badge&logo=mysql&logoColor=00648B)
 ---
-![Goosveridze wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Goosveridze&show_icons=true&theme=onedark&hide_border=true&bg_color=24292F&border_radius=6)
+![Goosveridze wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Goosveridze&show_icons=true&theme=onedar_prok&hide_border=true&bg_color=24292F&border_radius=6)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vadimkkka&show_icons=true&theme=onedark&hide_border=true&bg_color=24292F&border_radius=6)
+![Goosveridze GitHub stats](https://github-readme-stats.vercel.app/api?username=Vadimkkka&show_icons=true&theme=onedark_pro&hide_border=true&bg_color=24292F&border_radius=6)
 
